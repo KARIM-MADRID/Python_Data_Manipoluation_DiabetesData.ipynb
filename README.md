@@ -1,0 +1,2 @@
+# Python_Data_Manipoluation_DiabetesData.ipynb
+Python_Ml_Diabetic_data_Manipolution
